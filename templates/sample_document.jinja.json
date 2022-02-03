@@ -1,0 +1,4 @@
+{
+    "deviceId": "{{device.device_id}}",
+    "eventId": "{{event.event_id}}",
+}
