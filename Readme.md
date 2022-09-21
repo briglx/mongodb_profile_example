@@ -121,3 +121,4 @@ pydocstyle main.py
 - Mongo Profiler Docs https://docs.mongodb.com/manual/tutorial/manage-the-database-profiler/
 - Mongo Shell Docs https://docs.mongodb.com/manual/reference/
 - Motor - Mongo Python Driver Docs https://docs.mongodb.com/drivers/motor/
+- Logistic Function https://en.wikipedia.org/wiki/Logistic_function
